@@ -1,4 +1,4 @@
 class Person
 end
-adele_goldberg.new
-alan_key.new
+adele_goldberg Person.new
+alan_key Person.new
